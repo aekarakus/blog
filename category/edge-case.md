@@ -1,6 +1,7 @@
 ---
-layout: category
 title: Edge Case
+layout: category
+New field 1: Türkçe
 ---
 
 Sample category page. You need to create a page for each category.
