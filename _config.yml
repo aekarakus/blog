@@ -15,8 +15,8 @@ baseurl:          '/blog'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Alp Eren KARAKUŞ'
+  url:            https://aekarakus.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
