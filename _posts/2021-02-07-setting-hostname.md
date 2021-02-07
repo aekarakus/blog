@@ -7,5 +7,6 @@ tags:
 - centos
 - rhel
 - hostname
+comment_id: 2
 ---
 
