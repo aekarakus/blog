@@ -13,14 +13,18 @@ layout: default
     {% include post-tags.html post=page %}
   </div>
 
+  <section class="comment">
+      <script src="https://utteranc.es/client.js"
+            repo="aekarakus/blog"
+            issue-term="pathname"
+            theme="github-light"
+            label="comment"
+            crossorigin="anonymous"
+            async>
+      </script>
+  </section>
+  
+
   {% include comments.html %}
   {% include related_posts.html %}
 </div>
-<script src="https://utteranc.es/client.js"
-        repo="aekarakus/blog"
-        issue-term="pathname"
-        theme="github-light"
-        label="comment"
-        crossorigin="anonymous"
-        async>
-</script>
